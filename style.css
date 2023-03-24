@@ -16,7 +16,7 @@
   top: 3rem;
 }
 
-#header {
+header {
   background-color: white;
   flex-direction: row;
   justify-content: space-between;
@@ -88,16 +88,33 @@ p {
   color: #36b37e;
   font-size: 2.4rem;
   padding: 0;
+  width: 90%;
+}
+
+.icon-bar {
+  display: flex;
+  position: relative;
+  width: 50%;
+  justify-content: center;
 }
 
 a {
-  padding: 0 0.5rem;
+  padding: 0 0.8rem;
   text-decoration: none;
   margin-top: 0;
 }
 
-i {
-  transition: transform 0.2s ease-in-out;
+ul {
+  display: flex;
+  list-style: none;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  /* transition: transform 0.2s ease-in-out; */
+  display: inline-block;
 }
 
 i:hover {
