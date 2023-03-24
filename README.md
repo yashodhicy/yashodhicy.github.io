@@ -164,7 +164,7 @@ I would like to thank my code partners , my morning session teammates and code r
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/yashodhicy/Microverseday3pr/blob/add-license-1/LICENSE) licensed.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
