@@ -21,11 +21,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Portofolio - day3 project <a name="about-project"></a>
+# 📖 Portofolio - day4 project <a name="about-project"></a>
 
 
 
-** Portofolio - day3 project** is a project that create simple portofolio sections using html and css for the learning purpose.
+** Portofolio - day4 project** is a project that create simple mobile portofolio using html and css for the learning purpose.
 
 ## 🛠 Built With <a name="built-with"></a>
   -Visual Code Studio
@@ -68,7 +68,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 > 
 
-- [https://github.com/yashodhicy/Microverseday3pr](https://google.com)
+- Comming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
