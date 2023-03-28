@@ -114,13 +114,16 @@ p {
   font-size: 2.4rem;
   padding: 0;
   width: 90%;
+  margin: auto;
 }
 
 .icon-bar {
+  display: border-box;
   display: flex;
   position: relative;
-  width: 50%;
+  width: 90%;
   justify-content: center;
+  margin: auto 10%;
 }
 
 a {
@@ -180,13 +183,11 @@ i:hover {
 }
 
 h3 {
-  /* stylelint-disable-next-line value-list-comma-space-after */
-  font-family: Poppins,sans-serif;
+  font-family: Poppins, sans-serif;
   font-weight: 500px;
   line-height: 2rem;
   text-align: center;
-  /* stylelint-disable-next-line color-hex-case */
-  color: #172B4D;
+  color: #172b4d;
 }
 
 .tags {
@@ -204,7 +205,6 @@ button {
 }
 
 .see_project {
-  /* display: flex; */
   background-color: #2aa874;
   align-items: center;
   padding: 0.5rem;
@@ -230,13 +230,80 @@ button {
 }
 
 .but {
-  /* stylelint-disable-next-line color-hex-length */
-  background-color: #ffffff;
+  background-color: #fff;
   margin: 5px 3px;
   color: #3dc58c;
   border-radius: 5px;
 }
 
-button:hover {
-  background-color: #374e44;
+/* add form */
+
+#contact-form {
+  display: flex;
+  flex-direction: column;
 }
+
+#form-element {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  gap: 1rem;
+  margin-top: 2rem;
+  width: 100%;
+}
+
+#form-element li {
+  width: 90%;
+  padding: 0.5rem 0;
+}
+
+input {
+  box-sizing: border-box;
+  height: 3em;
+  width: 100%;
+  border: 1px solid #d0d9d4;
+  border-radius: 4px;
+}
+
+textarea {
+  box-sizing: border-box;
+  border: 1px solid #60c095;
+  border-radius: 4px;
+  height: 10em;
+  width: 100%;
+  margin: auto;
+}
+
+input:hover,
+textarea:hover,
+button:hover {
+  border: 2px solid rgb(40, 184, 246);
+}
+
+#form-element button {
+  display: block;
+  background-color: #60c095;
+  color: #fff;
+  margin: auto;
+  border-radius: 4px;
+}
+
+#form-element a {
+  width: 90%;
+  position: absolute;
+  color: #42526e;
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  margin: auto;
+}
+
+.line3 {
+  border: 2px solid black;
+  width: 20%;
+  margin: 0 auto;
+}
+
+/* end-form */
