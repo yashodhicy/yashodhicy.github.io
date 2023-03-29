@@ -117,6 +117,13 @@ You can deploy this project using:
 - Twitter: https://twitter.com/Yashichathucy
 - LinkedIn: https://www.linkedin.com/in/yashodhichathurangi/
 
+
+👤 **Zohra Neda**
+
+- GitHub: [@zohra-neda](https://github.com/zohra-neda)
+- Twitter: [@zohra_neda](https://twitter.com/zohra_neda)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/zohra-neda-3716b720b/)
+
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
