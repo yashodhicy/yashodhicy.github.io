@@ -124,7 +124,7 @@ p {
   width: 100%;
   height: max-content;
   justify-content: center;
-  margin: auto;
+  margin:  0 auto;
 }
 
 a {
@@ -337,9 +337,12 @@ textarea:hover {
 }
 
 .line3 {
-  border: 2px solid black;
-  width: 20%;
-  margin: 1rem auto;
+  border: 2px solid #0d151e;
+  width: 134px;
+  height: 5px;
+  left: calc(50% - 134px/2 - 0.5px);
+  bottom: 8px;
+  background: #0d151e;
+  border-radius: 10px;
 }
-
 /* end-form */
