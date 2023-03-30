@@ -91,8 +91,10 @@ In order to run this project you need:
 ### Setup
 
 Clone or make a copy of this repository to your desired folder: open this with your code editor
-repo link - git@github.com:yashodhicy/Microverseday3pr
-SSH - git@github.com:yashodhicy/Microverseday3pr.git
+
+- repo link - git@github.com:yashodhicy/Microverseday3pr
+
+- SSH - git@github.com:yashodhicy/Microverseday3pr.git
 
 ### View
 
