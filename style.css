@@ -524,6 +524,7 @@ textarea:hover {
   font-style: bold;
   font-size: 15px;
   line-height: 20px;
+  transition: font-size 2s font-weight 2s color 2s;
 }
 
 /* media query for hide desktop-nav in mobile version */
@@ -535,4 +536,10 @@ textarea:hover {
   #mobile-nav {
     display: flex;
   }
+}
+
+/* adding animation */
+#desktop-nav ul li a:hover {
+  font-size: 25px;
+
 }
