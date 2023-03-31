@@ -540,6 +540,10 @@ textarea:hover {
 
 /* adding animation */
 #desktop-nav ul li a:hover {
-  font-size: 25px;
-
+  font-size: 1.2rem;
+  color: #36b37e;
+  font-weight: 500;
+  border: 1px solid #36b37e;
+  border-radius: 4rem;
+  padding: 0.4rem;
 }
