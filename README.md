@@ -21,11 +21,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Portofolio - day4 project <a name="about-project"></a>
+# 📖 Portofolio - <a name="about-project"></a>
 
 
 
-** Portofolio - day4 project** is a project that create simple mobile portofolio using html and css for the learning purpose.
+** Portofolio** is a project that create simple portofolio using html and css for the learning purpose.
 
 ## 🛠 Built With <a name="built-with"></a>
   -Visual Code Studio
@@ -122,7 +122,7 @@ You can deploy this project using:
 - LinkedIn: https://www.linkedin.com/in/yashodhichathurangi/
 
 
-👤 **Zohra Neda**
+👤colloborator - **Zohra Neda**
 
 - GitHub: [@zohra-neda](https://github.com/zohra-neda)
 - Twitter: [@zohra_neda](https://twitter.com/zohra_neda)
