@@ -1,3 +1,6 @@
+html {
+  scroll-behavior: smooth;
+}
 
 main {
   vertical-align: center;
@@ -88,7 +91,6 @@ footer {
 
 h1,
 #topic h2 {
-  /* margin-top: 2rem; */
   font-family: Inter, sans-serif;
   margin: 10%;
   margin-bottom: 0;
@@ -268,7 +270,7 @@ button {
 }
 
 #contact-form h2 {
-  width: 327px;
+  width: 20.438rem;
   height: 363px;
   font-size: 40px;
   line-height: 52px;
@@ -434,8 +436,9 @@ textarea:hover {
     width: 53%;
     font-size: 30px;
     text-align: left;
-    line-height: 52px;
+    line-height: 53px;
     padding: 0;
+    padding-left: 0.6rem;
   }
 
   #form {
@@ -491,6 +494,13 @@ textarea:hover {
 @media (max-width: 1034px) and (min-width: 768px) {
   #container {
     background-size: 110%;
+  }
+}
+
+/* media query to solve responsive problem in .work-card2 */
+@media (max-width: 1110px) and (min-width: 768px) {
+  .work-card2 {
+    height: 400px;
   }
 }
 
