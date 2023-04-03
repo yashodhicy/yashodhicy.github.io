@@ -66,7 +66,8 @@
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-> 
+
+>this is the link to my live demo of the portofolio page. 
 
 - https://yashodhicy.github.io/
 
