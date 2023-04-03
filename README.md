@@ -68,7 +68,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 > 
 
-- Comming soon
+- https://yashodhicy.github.io/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
