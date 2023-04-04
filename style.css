@@ -227,18 +227,18 @@ button {
 .see_project {
   background-color: #2aa874;
   align-items: center;
-  /* padding: 0.5rem; */
-  margin: 0rem auto;
+  margin: 0 auto;
   font-family: Inter, sans-serif;
   color: #d2d2d2;
   border-radius: 5px;
 }
+
 /* fit ancor tag to button size */
 .work-card a,
 .project-ancor {
-  width:fit-content;
-  margin:1rem auto;
-  height:fit-content;
+  width: fit-content;
+  margin: 1rem auto;
+  height: fit-content;
   border-radius: 10px;
 }
 
@@ -402,8 +402,6 @@ textarea:hover {
     height: 316px;
   }
 
-
-
   #container {
     min-height: max-content;
     align-items: center;
@@ -560,4 +558,3 @@ textarea:hover {
   border-radius: 4rem;
   padding: 0.4rem;
 }
-
